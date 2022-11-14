@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan Ke
+- 👋 Hi, I’m Ryan Ke.
 - 👀 I’m interested in React, TypeScript, React Native, Web3, Web GPU, etc.
 - 🌱 I’m currently learning Defi and Docker.
 - 💞️ I’m looking to collaborate on ...
