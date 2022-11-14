@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelh93
 - 👀 I’m interested in React, TypeScript, React Native, Web3, Web GPU, etc.
-- 🌱 I’m currently learning Serverless and Docker.
+- 🌱 I’m currently learning Defi and Docker.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kelh93@163.com
 
